@@ -3,7 +3,7 @@ The overall goal of this assignment is to begin programming data structures by i
 ## Getting Started
 Download this code by running the following command in the directory of your choice:
 
-`git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-vector.git`
+`git clone git@github.com:tamu-edu-students/vector.git`
 
 Open the code in your editor of choice. For instance, if you use VS Code:
 
@@ -622,8 +622,3 @@ There is a struct, `Datum` in [Datum.h](./src/Datum.h) as well as a few simple f
 **Complexity: O(`size()`)**
 
 **Tests:** *datum_good*
-
-----
-
-## Turn In
-Submit the modified `Datum.cpp`, `Datum.h` and `Vector.h` to Gradescope. In general, submit everything except `main.cpp`.
