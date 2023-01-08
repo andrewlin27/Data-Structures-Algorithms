@@ -8,7 +8,7 @@ In this assignment, you will be parodying [`std::unordered_map`](https://en.cppr
 
 Download this code by running the following command in the directory of your choice:
 ```sh
-git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-unordered-map.git && cd leyk-csce221-assignment-unordered-map
+git clone git@github.com:tamu-edu-students/unordered-map.git && cd unordered-map
 ```
 Open the code in your editor of choice. For instance, if you use VS Code:
 ```sh
@@ -714,12 +714,3 @@ Invincible Epagneul Pont Audemer
 ```
 
 The program will calculate the load-factor, load-variance, and plot the proportion of data in each bucket. A well-designed hash function should distribute the sample data uniformly over the buckets.
-
-## Turn In
-
-Submit the following file **and no other files** to Gradescope:
-- [ ] [`UnorderedMap.h`](src/UnorderedMap.h)
-- [ ] [`hash_functions.h`](src/hash_functions.h)
-- [ ] [`hash_functions.cpp`](src/hash_functions.cpp)
-- [ ] [`primes.h`](src/primes.h)
-- [ ] [`primes.cpp`](src/primes.cpp)
