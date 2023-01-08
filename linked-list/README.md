@@ -36,7 +36,7 @@ There are several strategies for implementing linked lists. While any strategy c
 ## Getting started
 Download this code by running the following command in the directory of your choice:
 ```sh
-git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-list.git && cd leyk-csce221-assignment-list
+git clone git@github.com:tamu-edu-students/linked-list.git && cd linked-list
 ```
 Open the code in your editor of choice. For instance, if you use VS Code:
 ```sh
@@ -524,9 +524,3 @@ cd ../..
 > Alex recommends you use `cgdb` which has the same commands as `gdb` but a better user interface. You can install it with `sudo apt install cgdb` on `WSL` or `brew install cgdb` on `MacOS` (provided you have [brew](https://brew.sh))
 
 The first command builds the tests, the next enters the folder where the tests were built. The third invokes `gdb` (**use `lldb` if on Mac OSX**) which is used to debug the program by examining Segmentation Faults and running code line-by-line. Finally, the last command takes you back to the top-level directory.
-
-## Turn In
-Submit the following files **and no other files** to Gradescope:
-- [ ] [`Cards.cpp`](src/Cards.cpp)
-- [ ] [`Cards.h`](src/Cards.h) - You may not have changed this file and that's fine
-- [ ] [`List.h`](src/List.h)
