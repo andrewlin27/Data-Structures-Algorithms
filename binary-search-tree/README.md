@@ -402,8 +402,3 @@ If you read through the testing code, you may see custom test assertions. They a
 
 ## Main.cpp:
 In `main.cpp`, the code attempts to build and print a tree. Note that the names are used as the keys rather than the integers. This means that the binary tree is lexicographically ordered by the string key (not strictly numerically.)
-
-## Turn In
-
-Submit the following file **and no other files** to Gradescope:
-- [ ] [`BinarySearchTree.h`](src/BinarySearchTree.h)
