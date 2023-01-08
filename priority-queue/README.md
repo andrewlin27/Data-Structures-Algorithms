@@ -6,7 +6,7 @@ While a Priority Queue can be implemented in a variety of ways, in practice they
 
 Download this code by running the following command in the directory of your choice:
 ```sh
-git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-priority-queue.git && cd leyk-csce221-assignment-priority-queue
+git clone git@github.com:tamu-edu-students/priority-queue.git && cd priority-queue
 ```
 
 Open the code in your editor of choice. For instance, if you use VS Code:
@@ -168,8 +168,3 @@ This assignment is fairly simple to test. The `size`, `empty`, and `top` functio
 
 ## Main.cpp:
 In `main.cpp`, the code creates a min-heap and a max-heap and pushes and pops a series of small numbers. The numbers are printed as they are popped with a prompt indicating the expected ordering. If the ordering matches, the code should be run against more sophisticated tests.
-
-## Turn In
-
-Submit the following file **and no other files** to Gradescope:
-- [ ] [`PriorityQueue.h`](src/PriorityQueue.h)
