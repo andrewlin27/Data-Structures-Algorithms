@@ -32,7 +32,7 @@ o.value() // fetch the value from o, fails if no value
 
 Download this code by running the following command in the directory of your choice:
 ```sh
-git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-graph-algorithms.git && cd leyk-csce221-assignment-graph-algorithms
+git clone git@github.com:tamu-edu-students/graph-algorithms.git && cd graph-algorithms
 ```
 
 Open the code in your editor of choice. For instance, if you use VS Code:
@@ -861,14 +861,3 @@ The first command builds the tests, the next enters the folder where the tests w
 
 
 ## Incremental Testing:
-
-
-
-## Turn In
-
-Submit the following file **and no other files** to Gradescope:
-- [ ] [`dijkstras-helpers.h`](src/dijkstras-helpers.h)
-- [ ] [`top-sort-helpers.h`](src/top-sort-helpers.h)
-- [ ] [`graph-algorithms.h`](src/graph-algorithms.h)
-- [ ] ['graph-types.h'](src/graph-types.h)
-- [ ] ['weighted-graphs.hpp'](src/weighted-graphs.hpp)
