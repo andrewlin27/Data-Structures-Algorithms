@@ -5,7 +5,7 @@ The goal of this assignment is to implement the `O(n^2)` sorting algorithms usin
 ## Getting Started
 Download this code by running the following command in the directory of your choice:
 ```sh
-git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-sorting.git && cd leyk-csce221-assignment-sorting
+git clone git@github.com:tamu-edu-students/sorting-algorithms.git && cd sorting-algorithms
 ```
 
 Open the code in your editor of choice. For instance, if you use VS Code:
@@ -122,6 +122,3 @@ To run it, execute the following commands on MacOS or WSL:
 [#] g++ -std=c++17 -o src/main src/main.cpp
 [#] bash generate_csv.bash > sorting_data.csv
 ```
-
-## Turn In
-Submit the modified `sorting.h` to Gradescope. In general, submit everything except `main.cpp`.
