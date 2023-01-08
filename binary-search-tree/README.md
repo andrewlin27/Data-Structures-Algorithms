@@ -27,7 +27,7 @@ This Programming Assignment is the first where we are not implementing an STL cl
 
 Download this code by running the following command in the directory of your choice:
 ```sh
-git clone git@github.com:tamu-edu-students/leyk-csce221-assignment-binary-search-tree.git && cd leyk-csce221-assignment-binary-search-tree
+git clone git@github.com:tamu-edu-students/binary-search-tree.git && cd binary-search-tree
 ```
 Open the code in your editor of choice. For instance, if you use VS Code:
 ```sh
